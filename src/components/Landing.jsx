@@ -8,7 +8,7 @@ const Landing = () => {
       <header>
         <div className="header__container">
           <div className="header__description">
-            <h1>Rose's most awarded online library platform</h1>
+            <h1>Estonia's most awarded online library platform</h1>
             <h2>
               Find your dream book with <span className="purple">Library</span>
             </h2>
